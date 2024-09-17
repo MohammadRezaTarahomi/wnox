@@ -15,8 +15,7 @@
           "jsx": "preserve",
           "incremental": true,
           "esModuleInterop": true,
-          "importHelpers": true,
-          "removeComments": true
+          "importHelpers": true
         }
       }
     
